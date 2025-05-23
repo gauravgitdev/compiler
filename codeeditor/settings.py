@@ -68,7 +68,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'codeeditor.wsgi.application'
-CSRF_TRUSTED_ORIGINS = ['https://compiler-1-djs7.onrender.com']
+CSRF_TRUSTED_ORIGINS = ['https://techmitra.onrender.com']
 
 
 # Database
